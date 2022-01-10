@@ -150,6 +150,7 @@ header {
         color: grey; }
       .right .container .column-2 .details {
         font-size: 0.8rem;
+        font-weight: normal;
         color: grey; }
       .right .container .column-2__row-1 {
         grid-area: b; }
